@@ -1,0 +1,11 @@
+
+{
+  "name": "pp android",
+  "short_name": "pp",
+  "start_url": "/index.html",
+  "description": "the pp android of pwa version",
+  "display": "standalone",
+  "background_color": "#FFF",
+  "theme_color": "#2F3BA2",
+  "lang":"en"
+}
