@@ -13,7 +13,7 @@
 open the [url](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en) and click the blue button to Launch App
 
 click "CHOOSE FOLDER" as follow
-![image](https://github.com/SunShinewyf/first-pwa/1.png)
+![image](https://github.com/SunShinewyf/first-pwa/raw/master/1.png)
 
 then  click the url
-![image](https://github.com/SunShinewyf/first-pwa/2.png)
+![image](https://github.com/SunShinewyf/first-pwa/raw/master/2.png)
