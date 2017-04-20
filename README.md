@@ -1,8 +1,8 @@
 # a pwa demo of pp android
 
 ## what we need
-> Chrome 52 or above
-> [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
+- Chrome 52 or above
+- [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 
 ##run
 
@@ -13,7 +13,7 @@
 open the [url](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en) and click the blue button to Launch App
 
 click "CHOOSE FOLDER" as follow
-![Alt text](./1492685792655.png)
+![image](https://github.com/SunShinewyf/first-pwa/1.png)
 
 then  click the url
-![Alt text](./1492685875856.png)
+![image](https://github.com/SunShinewyf/first-pwa/2.png)
