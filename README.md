@@ -4,9 +4,8 @@
 - Chrome 52 or above
 - [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 
----
 
-##run
+## run
 
 ```shell
  git clone https://github.com/SunShinewyf/first-pwa.git
