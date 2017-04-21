@@ -1,0 +1,45 @@
+.header{
+    width:100%;
+    height:53px;
+    z-index:99;
+    background-color: #fff;
+    position: fixed;
+    top:0;
+}
+.header-logo{
+    height:100%;
+    float: left;
+    padding:15px 10px;
+}
+.header-nav{
+    width:100%;
+    height:200px;
+    border:1px solid purple;
+}
+.form-search{
+    height:100%;
+    margin:10px 0 0 150px;
+    display: block;
+}
+.search-query{
+    height:100%;
+    width:300px;
+    background-color:#ededed;
+    -webkit-border-radius:3px;
+    -moz-border-radius: 3px;
+    border-radius:3px;
+    font-size:15px;
+    padding-left:10px;
+    color:#c3c3c3;
+}
+.container{
+    width:100%;
+    height:200px;
+    border:1px solid blue;
+}
+
+.footer{
+    width:100%;
+    height:200px;
+    border:1px solid black;
+}
