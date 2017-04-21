@@ -20,7 +20,6 @@ self.addEventListener('install',function(e){
             return cache.addAll(filesToCache);
         })
     );
-    return self.clients.claim();
 });
 
 self.addEventListener('activate', function(e) {
@@ -35,6 +34,9 @@ self.addEventListener('activate', function(e) {
             }));
         })
     );
+    return self.clients.claim();
+});
+
 
 self.addEventListener('fetch', function(e) {
     console.log('[Service Worker] Fetch', e.request.url);
