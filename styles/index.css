@@ -93,9 +93,8 @@ body,html{
 .green{
     background-color: #7ac422;
 }
-.container{
-    width:100%;
-    height:200px;
+.ads-title{
+    margin-left:-2em;
 }
 .footer{
     width:100%;
