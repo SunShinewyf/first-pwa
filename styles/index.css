@@ -72,8 +72,8 @@ body,html{
     margin-left:0.6em;
 }
 .space-nav img{
-    width:2.2em;
-    height:2.2em;
+    max-width:2.2em;
+    max-height:2.2em;
     margin-right:0.3em;
     margin-bottom:7px;
 }
@@ -106,6 +106,7 @@ body,html{
     text-align: center;
     padding: 10px 4px;
     float: left;
+    list-style: none;
 }
 .first{
     margin-left:-2em;
@@ -137,6 +138,7 @@ body,html{
     height:96px;
     padding: 15px 10px;
     border-bottom: 1px solid #eee;
+    list-style-type: none
 }
 .footer{
     width:100%;
