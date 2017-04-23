@@ -96,6 +96,48 @@ body,html{
 .ads-title{
     margin-left:-2em;
 }
+.ads-app-ul{
+    width:100%;
+    clear:both;
+}
+.ads-app-li{
+    width: 25%;
+    border: none;
+    text-align: center;
+    padding: 10px 4px;
+    float: left;
+}
+.first{
+    margin-left:-2em;
+}
+.ads-app-li .btn-default{
+    margin-top:2px;
+    color:#22c485;
+    border:1px solid #22c485;
+}
+.ads-app-name{
+    font-size: 1.3em;
+    font-weight: 500;
+    color: #404040;
+    line-height:1.5em;
+}
+.ads-app-size{
+    font-size: 12px;
+    margin-top: 2px;
+    color: #b8b8b8;
+}
+.ads-app-uls{
+    width:100%;
+    clear: both;
+    margin-top:15px;
+    border:1px solid purple;
+}
+.ads-app-lis{
+    width:100%;
+    height:96px;
+    padding: 15px 10px;
+    border-bottom: 1px solid #eee;
+}
 .footer{
     width:100%;
     height:200px;
