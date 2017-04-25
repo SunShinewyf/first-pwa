@@ -3,58 +3,58 @@
   "name": "pp android",
   "short_name": "pp",
   "icons":[{
-     "src":"images/1.jpg",
+     "src":"public/images/1.jpg",
      "type":"image/jpg"
   },{
-     "src":"images/2.jpg",
+     "src":"public/images/2.jpg",
      "type":"image/jpg"
   },{
-     "src":"images/3.jpg",
+     "src":"public/images/3.jpg",
      "type":"image/jpg"
   },{
-    "src":"images/4.png",
+    "src":"public/images/4.png",
     "type":"image/png"
   },{
-    "src":"images/5.jpg",
+    "src":"public/images/5.jpg",
     "type":"image/jpg"
   },{
-    "src":"images/6.png",
+    "src":"public/images/6.png",
     "type":"image/png"
   },{
-    "src":"images/7.png",
+    "src":"public/images/7.png",
     "type":"image/png"
   },{
-    "src":"images/8.png",
+    "src":"public/images/8.png",
     "type":"image/png"
   },{
-    "src":"images/9.png",
+    "src":"public/images/9.png",
     "type":"image/png"
   },{
-    "src":"images/10.png",
+    "src":"public/images/10.png",
     "type":"image/png"
   },{
-    "src":"images/11.png",
+    "src":"public/images/11.png",
     "type":"image/png"
   },{
-    "src":"images/12.png",
+    "src":"public/images/12.png",
     "type":"image/png"
   },{
-    "src":"images/13.png",
+    "src":"public/images/13.png",
     "type":"image/png"
   },{
-    "src":"images/14.png",
+    "src":"public/images/14.png",
     "type":"image/png"
   },{
-    "src":"images/15.png",
+    "src":"public/images/15.png",
     "type":"image/png"
   },{
-    "src":"images/16.png",
+    "src":"public/images/16.png",
     "type":"image/png"
   },{
-    "src":"images/17.png",
+    "src":"public/images/17.png",
     "type":"image/png"
   },{
-    "src":"images/logo.png",
+    "src":"public/images/logo.png",
     "type":"image/png"
   }],
   "start_url": "/index.html",

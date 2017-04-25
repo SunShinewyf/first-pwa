@@ -16,9 +16,9 @@ open the [url](https://chrome.google.com/webstore/detail/web-server-for-chrome/o
 click "CHOOSE FOLDER" as follow,and choose the folder downloaded just now
 
 
-![image](https://github.com/SunShinewyf/first-pwa/raw/master/1.png)
+![image](https://github.com/SunShinewyf/first-pwa/raw/master/assets/1.png)
 
 then  click the url
 
 
-![image](https://github.com/SunShinewyf/first-pwa/raw/master/2.png)
+![image](https://github.com/SunShinewyf/first-pwa/raw/master/assets/2.png)
