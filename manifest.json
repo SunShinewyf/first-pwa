@@ -57,7 +57,7 @@
     "src":"public/images/logo.png",
     "type":"image/png"
   }],
-  "start_url": "/index.html",
+  "start_url": "public/index.html",
   "description": "the pp android of pwa version",
   "display": "standalone",
   "background_color": "#FFF",

@@ -8,8 +8,8 @@ var cacheName = 'ppPWA-final-1';
 
 var filesToCache = [
     '/',
-    '/index.html',
-    'styles/index.css'
+    'public/index.html',
+    'public/styles/index.css'
 ];
 
 self.addEventListener('install',function(e){
