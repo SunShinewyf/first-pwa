@@ -160,7 +160,7 @@
   </div>
 </ul>
 <ul class="ads-app-uls">
-  <li class="ads-app-lis first">
+  <li class="ads-app-lis first-li">
     <div>
     <a href="">
       <img src="images/17.png">
@@ -173,7 +173,7 @@
       <a href="" class="btn btn-default btn-down">下载</a>
     </div>
   </li>
-  <li class="ads-app-lis first">
+  <li class="ads-app-lis first-li">
     <div>
       <a href="">
         <img src="images/16.png">
@@ -186,7 +186,7 @@
       <a href="" class="btn btn-default btn-down">下载</a>
     </div>
   </li>
-  <li class="ads-app-lis first">
+  <li class="ads-app-lis first-li">
     <div>
       <a href="">
         <img src="images/15.png">
@@ -199,7 +199,7 @@
       <a href="" class="btn btn-default btn-down">下载</a>
     </div>
   </li>
-  <li class="ads-app-lis first">
+  <li class="ads-app-lis first-li">
     <div>
       <a href="">
         <img src="images/14.png">
@@ -241,8 +241,13 @@
     };
     firebase.initializeApp(config);
 </script>
-<script src="scripts/jquery.min.js" async></script>
-<script src="scripts/bootstrap.min.js" async></script>
+<script src="scripts/jquery.min.js"></script>
+<script src="scripts/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $('#myCarousel').carousel({interval:5000});//每隔5秒自动轮播
+    });
+</script>
 <script src="scripts/app.js" async></script>
 </body>
 </head>

@@ -30,8 +30,7 @@ body,html{
 }
 .search-query{
     height:51px;
-    max-width:23rem;
-    min-width:16rem;
+    width:85%;
     background-color:#ededed;
     -webkit-border-radius:3px;
     -moz-border-radius: 3px;
@@ -104,10 +103,10 @@ body,html{
     clear:both;
 }
 .ads-app-li{
-    width: 26%;
+    width: 25%;
     border: none;
     text-align: center;
-    padding: 10px 0.3rem;
+    padding: 10px 0.6rem 0 0;
     float: left;
     list-style: none;
 }
@@ -116,6 +115,9 @@ body,html{
     height:auto;
 }
 .first{
+    margin-left:-1.5rem;
+}
+.first-li{
     margin-left:-2.5rem;
 }
 .ads-app-li .btn-default{
@@ -160,7 +162,7 @@ body,html{
     -moz-border-radius:10px;
     border-radius:10px;
     vertical-align: top;
-
+    float:left;
 }
 .app-info{
     margin-left: 9px;
@@ -175,7 +177,7 @@ body,html{
 .app-info-desc{
     color: #9e9e9e;
     margin-left: 75px;
-    margin-top: -27px;
+    margin-top: -3px;
 }
 .btn-down{
     background: #22c485;
@@ -228,4 +230,15 @@ body,html{
 .footer p a {
     color: #999;
     padding: 0 10px;
+}
+
+@media screen and (max-width:330px){
+    .ads-app-lis img{
+        width:35px;
+        height:35px;
+        margin-top:12px;
+    }
+    .app-info-desc{
+        margin-left:45px;
+    }
 }
