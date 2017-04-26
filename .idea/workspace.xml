@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2087db27-e294-45b8-aad2-1ac6887b11e7" name="Default" comment="" />
+    <list default="true" id="2087db27-e294-45b8-aad2-1ac6887b11e7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/1.md" afterPath="$PROJECT_DIR$/public/1.md" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -60,8 +63,8 @@
           <file leaf-file-name="1.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/public/1.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="534">
-                  <caret line="133" column="19" lean-forward="true" selection-start-line="133" selection-start-column="19" selection-end-line="133" selection-end-column="19" />
+                <state relative-caret-position="576">
+                  <caret line="135" column="53" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -340,12 +343,12 @@
       <updated>1492683326790</updated>
       <workItem from="1492683328223" duration="569000" />
       <workItem from="1492685214488" duration="28012000" />
-      <workItem from="1493028022501" duration="7899000" />
+      <workItem from="1493028022501" duration="8226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36480000" />
+    <option name="totallyTimeSpent" value="36807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-280" width="1920" height="1080" extended-state="0" />
@@ -532,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/1.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="133" column="19" lean-forward="true" selection-start-line="133" selection-start-column="19" selection-end-line="133" selection-end-column="19" />
+        <state relative-caret-position="576">
+          <caret line="135" column="53" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
           <folding />
         </state>
       </provider>
