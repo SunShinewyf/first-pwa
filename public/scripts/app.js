@@ -6,22 +6,22 @@
 (function () {
     'use strict';
 
-    // var config = {
-    //     apiKey:'AIzaSyC-Cx6Y2z0qnNKUJ_pMmdhcJSkYv5bzz04',
-    //     authDomain:'https://pp-pwa-da294.firebaseapp.com/',
-    //     databaseURL:'https://pp-pwa-da294.firebaseio.com/',
-    //     storageBucket:'gs://pp-pwa-da294.appspot.com'
-    // }
-    //
-    // firebase.initializeApp(config);
-    //
-    // var database = firebase.database();
+    var config = {
+        apiKey:'AIzaSyC-Cx6Y2z0qnNKUJ_pMmdhcJSkYv5bzz04',
+        authDomain:'https://pp-pwa-da294.firebaseapp.com/',
+        databaseURL:'https://pp-pwa-da294.firebaseio.com/',
+        storageBucket:'gs://pp-pwa-da294.appspot.com'
+    }
 
-    
-    firebase.initializeApp({
-        serviceAccount: "../../pp-pwa-c71fe2fbc95f.json",
-        databaseURL: "https://pp-pwa-da294.firebaseio.com/"
-    });
+    firebase.initializeApp(config);
+
+    var database = firebase.database();
+
+
+    // firebase.initializeApp({
+    //     serviceAccount: "../../pp-pwa-c71fe2fbc95f.json",
+    //     databaseURL: "https://pp-pwa-da294.firebaseio.com/"
+    // });
 
     var app = {
         isloading:true,
@@ -107,7 +107,8 @@
 
     //get data
     app.getData = function(){
-        console.log(database);
+        var ppData = database.ref('pp-data');
+        console.log(ppData,'yuanfang');
         // database.once("value",function(snapshot){
         //     console.log('this is the data',snapshot);
         // })
