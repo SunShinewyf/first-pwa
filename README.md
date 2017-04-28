@@ -22,3 +22,6 @@ then  click the url
 
 
 ![image](https://github.com/SunShinewyf/first-pwa/raw/master/assets/2.png)
+
+
+
